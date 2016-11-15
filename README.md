@@ -1,6 +1,7 @@
 # LowLatencyPlayer
 Low latency audio/video player using OpenSL SE lib
 
+-----------------------------------------------------------------
 It is player on android platform.
 
 The LowLatencyPlayer don't use high level java API like MediaPlayer/AudioTrack.
